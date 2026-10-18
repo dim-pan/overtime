@@ -23,7 +23,7 @@ Engineer fixed the checkout button, ran the tests, and checked it on `localhost:
 
 ## What you get
 
-- **Always-on employees.** An OpenClaw-style harness (memory, schedules, heartbeats, Telegram) on top of Claude Code, Codex, OpenClaw, Hermes or any other open-source agent. They keep working when your laptop is closed.
+- **Always-on employees.** An OpenClaw-style harness (memory, schedules, heartbeats, Telegram) on top of Claude Code and Codex, with OpenClaw and Hermes support coming. They keep working when your laptop is closed.
 - **Set up in a click.** Each employee gets its own workspace and browser on your VMs. No servers to wire by hand.
 - **The Codex interface.** Every step, diff, file and live browser, the way Codex and Claude Code show them. Take over any browser, stop, redirect, approve.
 - **Real work.** Browser use plus integrations for the tools a business runs on: ads, payments, email, CRM, socials, analytics.
@@ -51,7 +51,7 @@ Personal assistants answer you. Employees do a job: they own an outcome, work on
 | Watch the browser live, take over | Yes | Local only | Local only | Yes | Not documented | Yes |
 | Claude Code-style app: steps, diffs, live screens | Yes | Yes | Yes | Chat | Chat, terminal | Web task pages |
 | Many agents in parallel | 100 | Parallel tasks | Parallel sessions | Yes | Subagents | Yes |
-| Runs other agents | Claude Code, Codex, OpenClaw, Hermes | No | No | Coding agents via ACP | No | Yes |
+| Runs other agents | Claude Code, Codex (OpenClaw, Hermes coming) | No | No | Coding agents via ACP | No | Yes |
 | Native Mac and iOS apps | Yes | Mac, iOS controls the Mac | Mac, iOS via Claude app | Companion apps | Desktop, third-party iOS | Web only |
 | Open source, your own servers | Yes | CLI only | No | Yes | Yes | Yes |
 
@@ -67,6 +67,6 @@ The businesses that win will be the ones that can run many agents at once, doing
 |---|---|
 | [`app/`](app) | Mac app |
 | [`gateway/`](gateway) | Server the app talks to, one per workspace |
-| [`harness/`](harness) | Runs any agent: Claude Code, Codex, OpenClaw, Hermes or another open-source agent |
+| [`harness/`](harness) | Runs agents on Claude Code and Codex |
 | [`provision/`](provision) | Sets up VMs, workspaces and agents |
 | [`docs/`](docs) | [Messaging](docs/messaging.md), [brand](docs/brand.md) |

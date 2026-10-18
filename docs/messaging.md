@@ -11,7 +11,7 @@ From personal assistants to AI employees: agents you can manage, watch and measu
 
 ## Value
 
-1. **Always-on employees:** an OpenClaw-style harness on top of Claude Code, Codex, OpenClaw, Hermes or any other open-source agent.
+1. **Always-on employees:** an OpenClaw-style harness on top of Claude Code and Codex; OpenClaw and Hermes support coming.
 2. **Set up in a click:** a workspace and browser per employee, on your VMs.
 3. **The Codex interface:** see every step, diff and browser; take over anytime.
 4. **Real work:** browser use and integrations (ads, payments, email, CRM, socials) in the tools businesses run on.
