@@ -2,8 +2,9 @@
 
 ## One line
 
-Run and manage 100 always-on agents in the cloud, from Mac and iOS.
-The Codex app for AI employees. Open source.
+Run and manage 100 always-on agents in the cloud.
+Each with its own computer and browser.
+From Mac and iOS. The Codex app for AI employees. Open source.
 
 **The Codex app with computer and browser use is so powerful. You can do so much productive work while you're at your computer.**
 
