@@ -2,8 +2,8 @@
 
 ## One line
 
-Open-source dots, with a command centre.
-Run and manage 100 always-on agents in the cloud from a Codex-style app.
+Run and manage 100 always-on agents in the cloud.
+Open-source OpenAI dots, with a Codex-style command centre.
 
 ## The leap
 

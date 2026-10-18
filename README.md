@@ -1,8 +1,8 @@
 <p align="center"><img src="docs/assets/logo.png" alt="Overtime" width="300"></p>
 
-<h1 align="center">Open-source dots, with a command centre</h1>
+<h1 align="center">Run and manage 100 always-on agents in the cloud</h1>
 
-<h3 align="center">Run and manage 100 always-on agents in the cloud from a Codex-style app</h3>
+<h3 align="center">Open-source OpenAI dots, with a Codex-style command centre</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Codex_app_clone-0D0D0D?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMiIgeT0iNCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjE2IiByeD0iMyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8%2BPHBhdGggZD0iTTYgMTBsMyAyLTMgMk0xMSAxNWg1IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjwvc3ZnPg%3D%3D" alt="Codex app clone">
