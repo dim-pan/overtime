@@ -1,8 +1,8 @@
 <p align="center"><img src="docs/assets/logo.png" alt="Overtime" width="300"></p>
 
-<h1 align="center">The Codex app for AI employees in the cloud.</h1>
+<h1 align="center">Run and manage 100 always-on agents in the cloud, from Mac and iOS.</h1>
 
-<p align="center">Always-on agents on your own servers. See every step, take over anytime, run 100 at once. Open source.</p>
+<p align="center">The Codex app for AI employees. Open source.</p>
 
 <p align="center"><img src="docs/assets/hero.jpg" alt="A punch clock feeding a grid of hundreds of desks, each with an AI employee at its own computer" width="900"></p>
 
