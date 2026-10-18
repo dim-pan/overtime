@@ -26,6 +26,7 @@ Engineer fixed the checkout button, ran the tests, and checked it on `localhost:
 - **Always-on employees.** An OpenClaw-style harness (memory, schedules, heartbeats, Telegram) on top of Claude Code, Codex, OpenClaw, Hermes or any other open-source agent. They keep working when your laptop is closed.
 - **Set up in a click.** Each employee gets its own workspace and browser on your VMs. No servers to wire by hand.
 - **The Codex interface.** Every step, diff, file and live browser, the way Codex and Claude Code show them. Take over any browser, stop, redirect, approve.
+- **Real work.** Browser use plus integrations for the tools a business runs on: ads, payments, email, CRM, socials, analytics.
 - **Scale.** Run 100 always-on employees from one app.
 
 ## Use cases
@@ -43,10 +44,10 @@ Also: back-office work in tools without APIs (books, invoices, supplier portals)
 | Keeps working when your laptop closes | Yes | Cloud tasks | Cloud sessions | Yes | Yes | Yes |
 | Browser use in the cloud | Every agent | Local only | Local only | Yes | Yes | Via Browser Use Cloud |
 | Watch the browser live, take over | Yes | Local only | Local only | Live view | Not documented | Yes |
-| Codex-style steps and diffs | Yes | Yes | Yes | Chat | Chat, terminal | Task pages |
+| Claude Code-style app: steps, diffs, live screens | Yes | Yes | Yes | Chat | Chat, terminal | Web task pages |
 | Many agents in parallel | 100 | Parallel tasks | Parallel sessions | Yes | Subagents | Yes |
 | Runs any agent | Yes | No | No | No | No | Yes |
-| Native Mac and iOS apps | Yes | Yes | Yes | Yes | Desktop | Web only |
+| Native, fast Mac and iOS apps | Yes | Yes | Yes | Companion apps | Desktop | Web only |
 | Open source, your own servers | Yes | CLI only | No | Yes | Yes | Yes |
 
 Checked October 2026.

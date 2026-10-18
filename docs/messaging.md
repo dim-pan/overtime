@@ -10,7 +10,12 @@ The Codex app for AI employees. Open source.
 1. **Always-on employees:** an OpenClaw-style harness on top of Claude Code, Codex, OpenClaw, Hermes or any other open-source agent.
 2. **Set up in a click:** a workspace and browser per employee, on your VMs.
 3. **The Codex interface:** see every step, diff and browser; take over anytime.
-4. **Scale:** 100 always-on employees from one app.
+4. **Real work:** browser use and integrations (ads, payments, email, CRM, socials) in the tools businesses run on.
+5. **Scale:** 100 always-on employees from one app.
+
+## Against Paperclip
+
+Paperclip is a web dashboard for an org chart of agents. Overtime is a native, fast Mac and iOS app with the Claude Code interface, built around browser use and integrations that do real work.
 
 ## Problem
 
