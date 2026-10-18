@@ -1,8 +1,10 @@
 <p align="center"><img src="docs/assets/logo.png" alt="Overtime" width="300"></p>
 
-<h1 align="center">Run and manage 100 always-on agents in the cloud with a Codex app clone.<br>Each with its own computer and browser.</h1>
+<h1 align="center">Run and manage 100 always-on agents in the cloud</h1>
 
-<p align="center">From Mac and iOS. Open source.</p>
+<h3 align="center">Each with its own computer and browser</h3>
+
+<p align="center"><code>Codex app clone</code> &nbsp; <code>Computer and browser use</code> &nbsp; <code>Mac and iOS</code> &nbsp; <code>Open source</code></p>
 
 <p align="center"><img src="docs/assets/hero.jpg" alt="A punch clock feeding a grid of hundreds of desks, each with an AI employee at its own computer" width="900"></p>
 
