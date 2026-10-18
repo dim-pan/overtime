@@ -7,7 +7,7 @@ The Codex app for AI employees. Open source.
 
 ## Value
 
-1. **Always-on employees:** an OpenClaw-style harness on top of Claude Code, Codex, OpenClaw and Hermes.
+1. **Always-on employees:** an OpenClaw-style harness on top of Claude Code, Codex, OpenClaw, Hermes or any other open-source agent.
 2. **Set up in a click:** a workspace and browser per employee, on your VMs.
 3. **The Codex interface:** see every step, diff and browser; take over anytime.
 4. **Scale:** 100 always-on employees from one app.
