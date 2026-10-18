@@ -1,8 +1,10 @@
 <p align="center"><img src="docs/assets/logo.png" alt="Overtime" width="300"></p>
 
-<h3 align="center">An open-source Codex and Claude Code app for running hundreds of always-on agents in the cloud.</h3>
+<h1 align="center">Claude Code and Codex with computer use.<br>For 100 agents, running 24/7.</h1>
 
-<p align="center"><img src="docs/assets/hero.jpg" alt="Overtime: a wall of AI workers, each at its own computer, next to a punch clock" width="900"></p>
+<p align="center">Open source.</p>
+
+<p align="center"><img src="docs/assets/hero.jpg" alt="A punch clock feeding a grid of hundreds of desks, each with an AI worker at its own computer" width="900"></p>
 
 > Private preview. The code moves here once it is ready.
 

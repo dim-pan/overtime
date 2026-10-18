@@ -2,7 +2,7 @@
 
 ## One line
 
-An open-source Codex and Claude Code app for running hundreds of always-on agents in the cloud.
+Claude Code and Codex with computer use. For 100 agents, running 24/7.
 
 ## Problem
 
