@@ -28,6 +28,27 @@ Engineer fixed the checkout button, ran the tests, and checked it on `localhost:
 - **The Codex interface.** Every step, diff, file and live browser, the way Codex and Claude Code show them. Take over any browser, stop, redirect, approve.
 - **Scale.** Run 100 always-on employees from one app.
 
+## Use cases
+
+- **AI employees.** A team per business for growth and engineering: ads, content, outreach, fixes, releases. Always on, each at its own desk.
+- **Personal assistants that do real work.** Book it, pay it, sort it, in your real accounts, with your approval on the phone.
+- **Browser QA at scale.** Twenty agents click through every flow of your app on `localhost` or staging each night and report back with screenshots.
+
+Also: back-office work in tools without APIs (books, invoices, supplier portals), a separate pod of agents per client for agencies, always-on monitoring that acts on what it finds, support and community triage, overnight upgrades and migrations across repos, and running Claude Code, Codex and Hermes side by side on the same task.
+
+## Compared
+
+| | Overtime | Codex, Claude Code apps | OpenClaw, Hermes | Paperclip |
+|---|---|---|---|---|
+| Always on, in the cloud | Yes | No, your laptop | Yes | Yes |
+| Every agent gets its own browser | Yes | One, on your machine | No live browser | No |
+| See every step, diff and screen live | Yes | Yes | No, chat only | Dashboard, no screens |
+| Take over mid-task | Yes | Yes, locally | No | No |
+| 100 agents in parallel | Yes | No | Hard | Yes |
+| Any agent: Claude Code, Codex, OpenClaw, Hermes | Yes | No, one each | No, one each | Yes |
+| Native Mac and iOS apps | Yes | Mac, no iOS | Chat apps | Web |
+| Open source, your own servers | Yes | Partly | Yes | Yes |
+
 ## Thesis
 
 The businesses that win will be the ones that can run many agents at once, doing valuable work well and without supervision. Get that right and your workforce scales with compute, not headcount.
