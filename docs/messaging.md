@@ -23,8 +23,14 @@ Paperclip is a web dashboard for an org chart of agents. Overtime is a native, f
 
 ## Problem
 
-- Chat apps are the wrong cockpit: steering an agent through real work over Telegram is painful, steering ten is impossible.
-- The best agent apps are stuck on your laptop: Claude Code and Codex run locally, remote control is clunky, and computer use does not scale to many agents at once.
+1. They stop when your laptop does.
+2. The cloud is hard.
+3. You can't see the work.
+4. You can't step in.
+5. Computer use doesn't scale.
+6. Agents lose the thread.
+7. They don't know when to ask.
+8. Every agent has its own app.
 
 ## Solution
 

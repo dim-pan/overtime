@@ -8,8 +8,14 @@
 
 ## Problem
 
-- **Chat apps are the wrong cockpit.** Steering an OpenClaw-style agent through real work over Telegram is painful. Steering ten is impossible.
-- **The best agent apps are stuck on your laptop.** Claude Code and Codex are great, and computer use is remarkable, but they run locally. Remote control is clunky, and computer use does not scale to many agents at once.
+- **They stop when your laptop does.** Claude Code and Codex run on your machine.
+- **The cloud is hard.** Servers, logins, browsers and keeping agents alive are all on you.
+- **You can't see the work.** Chat apps show a summary, not the steps, diffs or screens.
+- **You can't step in.** When an agent hits a login or goes off track, there's no wheel to grab.
+- **Computer use doesn't scale.** One browser, one agent at a time.
+- **Agents lose the thread.** No memory, no schedule, no handoffs to each other.
+- **They don't know when to ask.** So they either stall or do something you didn't want.
+- **Every agent has its own app.** Ten agents means ten tabs.
 
 ## See it work
 
