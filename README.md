@@ -1,6 +1,6 @@
 <p align="center"><img src="docs/assets/logo.png" alt="Overtime" width="300"></p>
 
-<h1 align="center">Run and manage 100 always-on agents in the cloud</h1>
+<h1 align="center">Run 100 always-on agents that do real work</h1>
 
 <h3 align="center">Open-source OpenAI dots, with a Codex-style command centre</h3>
 

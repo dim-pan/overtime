@@ -2,7 +2,7 @@
 
 ## One line
 
-Run and manage 100 always-on agents in the cloud.
+Run 100 always-on agents that do real work.
 Open-source OpenAI dots, with a Codex-style command centre.
 
 ## The leap
