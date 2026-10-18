@@ -4,13 +4,18 @@
 
 <h3 align="center">Each with its own computer and browser</h3>
 
-<p align="center"><code>Codex app clone</code> &nbsp; <code>Computer and browser use</code> &nbsp; <code>Mac and iOS</code> &nbsp; <code>Open source</code></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Codex_app_clone-0D0D0D?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMiIgeT0iNCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjE2IiByeD0iMyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8%2BPHBhdGggZD0iTTYgMTBsMyAyLTMgMk0xMSAxNWg1IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjwvc3ZnPg%3D%3D" alt="Codex app clone">
+  <img src="https://img.shields.io/badge/Computer_%2B_browser_use-E3242B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Computer and browser use">
+  <img src="https://img.shields.io/badge/Mac_%2B_iOS-2741D6?style=for-the-badge&logo=apple&logoColor=white" alt="Mac and iOS">
+  <img src="https://img.shields.io/badge/Open_source-0D0D0D?style=for-the-badge&logo=github&logoColor=white" alt="Open source">
+</p>
 
 <p align="center"><img src="docs/assets/hero.jpg" alt="A punch clock feeding a grid of hundreds of desks, each with an AI employee at its own computer" width="900"></p>
 
-<p align="center"><b>The Codex app with computer and browser use is so powerful. You can do so much productive work while you're at your computer.</b></p>
+<p align="center">The Codex app with computer and browser use is so powerful. You can do so much productive work while you're at your computer.</p>
 
-<p align="center">How can we make this SCALE, and manage always-on assistants that do REAL work for us?</p>
+<p align="center"><b>How can we make this SCALE, and manage always-on assistants that do REAL work for us?</b></p>
 
 ## Problem
 
