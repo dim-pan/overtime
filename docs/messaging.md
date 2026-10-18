@@ -33,8 +33,3 @@ The businesses that win will be the ones that can run many agents at once, doing
 ## What we never say
 
 Zero-human, replace your team, fully autonomous, revolutionise.
-
-## Open questions
-
-- Hosted option, or self-hosted only?
-- "Hundreds" is the goal; what is the tested number today?
