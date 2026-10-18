@@ -4,12 +4,18 @@
 
 <p align="center">The Codex app for AI employees. Open source.</p>
 
-<p align="center"><img src="docs/assets/hero.jpg" alt="A punch clock feeding a grid of hundreds of desks, each with an AI employee at its own computer" width="900"></p>
+<p align="center"><img src="docs/assets/hero.jpg" alt="A wall of 100 screens, each an agent at work in its own app, one highlighted with Take over" width="900"></p>
 
 ## Problem
 
 - **Chat apps are the wrong cockpit.** Steering an OpenClaw-style agent through real work over Telegram is painful. Steering ten is impossible.
 - **The best agent apps are stuck on your laptop.** Claude Code and Codex are great, and computer use is remarkable, but they run locally. Remote control is clunky, and computer use does not scale to many agents at once.
+
+## See it work
+
+<p align="center"><img src="docs/assets/app.jpg" alt="Overtime: the Growth agent has set up an ads campaign in its own browser, shown live in the app, and waits for approval" width="900"></p>
+
+Growth set up a $40/day campaign in Ads Manager on its own browser. You watch it live, then approve or take over.
 
 ## What you get
 
