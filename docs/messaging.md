@@ -23,9 +23,10 @@ Paperclip is a web dashboard for an org chart of agents. Overtime is a native, f
 
 ## Problem
 
-- The interfaces to manage agents and see their work suck.
-- Agents get lost. Managing them from one thread or Telegram is confusing.
-- Hosting agents at scale in the cloud is hard.
+- **Interfaces suck.** Telegram and chat threads give you a summary, not the steps, diffs and screens behind the work.
+- **Computer use doesn't scale.** It only runs on your laptop, one agent at a time.
+- **Agents get lost.** Run several from one thread and they talk over each other, with no way to see who is doing what.
+- **Hosting is hard.** Running agents at scale in the cloud means wiring up servers, logins and browsers, and keeping them alive yourself.
 
 ## Solution
 
