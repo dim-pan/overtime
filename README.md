@@ -1,26 +1,24 @@
 <p align="center"><img src="docs/assets/logo.png" alt="Overtime" width="300"></p>
 
-<h1 align="center">Run 100 AI agents in the cloud, 24/7.</h1>
+<h1 align="center">The Codex app for AI employees in the cloud.</h1>
 
-<p align="center">Claude Code, Codex, OpenClaw, Hermes. Each with its own computer. Open source.</p>
+<p align="center">Always-on agents on your own servers. See every step, take over anytime, run 100 at once. Open source.</p>
 
-<p align="center"><img src="docs/assets/hero.jpg" alt="A punch clock feeding a grid of hundreds of desks, each with an AI worker at its own computer" width="900"></p>
+<p align="center"><img src="docs/assets/hero.jpg" alt="A punch clock feeding a grid of hundreds of desks, each with an AI employee at its own computer" width="900"></p>
 
 > Private preview. The code moves here once it is ready.
 
 ## Problem
 
 - **Chat apps are the wrong cockpit.** Steering an OpenClaw-style agent through real work over Telegram is painful. Steering ten is impossible.
-- **The best agent apps are stuck on your laptop.** Claude Code and Codex are great, and computer use is remarkable, but they run locally. Remote control is clunky, and computer use does not scale to many agents working at once.
+- **The best agent apps are stuck on your laptop.** Claude Code and Codex are great, and computer use is remarkable, but they run locally. Remote control is clunky, and computer use does not scale to many agents at once.
 
-## Solution
+## What you get
 
-Overtime moves the agents to the cloud and keeps the app.
-
-- **Always on, in the cloud.** Claude Code and Codex agents today, OpenClaw and Hermes next, on your own VMs around the clock. Nothing runs on your laptop.
-- **A computer each.** Every agent gets its own desktop and browser, so computer use runs in parallel, not one at a time.
-- **An app built for many.** Chat, files, diffs and every agent's live screen in one native Mac app. Take over any screen in a click.
-- **You approve what matters.** Sending, posting and buying wait for your OK. The rest just gets done.
+- **Always-on employees.** An OpenClaw-style harness (memory, schedules, heartbeats, Telegram) on top of Claude Code and Codex, with OpenClaw and Hermes next. They keep working when your laptop is closed.
+- **Set up in a click.** Each employee gets its own workspace and browser on your VMs. No servers to wire by hand.
+- **The Codex interface.** Every step, diff, file and live browser, the way Codex and Claude Code show them. Take over any browser, stop, redirect, approve.
+- **Scale.** Run 100 always-on employees from one app.
 
 ## Thesis
 

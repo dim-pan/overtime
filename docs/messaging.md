@@ -2,8 +2,15 @@
 
 ## One line
 
-Run 100 AI agents in the cloud, 24/7.
-Claude Code, Codex, OpenClaw, Hermes. Each with its own computer. Open source.
+The Codex app for AI employees in the cloud.
+Always-on agents on your own servers. See every step, take over anytime, run 100 at once. Open source.
+
+## Value
+
+1. **Always-on employees:** an OpenClaw-style harness on top of Claude Code, Codex, OpenClaw and Hermes.
+2. **Set up in a click:** a workspace and browser per employee, on your VMs.
+3. **The Codex interface:** see every step, diff and browser; take over anytime.
+4. **Scale:** 100 always-on employees from one app.
 
 ## Problem
 
@@ -22,12 +29,6 @@ The businesses that win will be the ones that can run many agents at once, doing
 
 - AI workers that never clock out.
 - Scale your workforce with compute, not headcount.
-
-## What we say
-
-1. Hundreds of agents, always on, on your own cloud VMs.
-2. Any agent: Claude Code and Codex today, OpenClaw and Hermes next. Open source.
-3. Watch any agent live, take over, approve what matters.
 
 ## What we never say
 
