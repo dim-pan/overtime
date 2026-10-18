@@ -6,16 +6,22 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Codex--style_app-0D0D0D?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMiIgeT0iNCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjE2IiByeD0iMyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8%2BPHBhdGggZD0iTTYgMTBsMyAyLTMgMk0xMSAxNWg1IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjwvc3ZnPg%3D%3D" alt="Codex-style app">
-  <img src="https://img.shields.io/badge/Your_own_servers-E3242B?style=for-the-badge&logo=linuxserver&logoColor=white" alt="Your own servers">
+  <img src="https://img.shields.io/badge/Ready--made_VM_templates-E3242B?style=for-the-badge&logo=linuxserver&logoColor=white" alt="Ready-made VM templates">
   <img src="https://img.shields.io/badge/Mac_%2B_iOS-2741D6?style=for-the-badge&logo=apple&logoColor=white" alt="Mac and iOS">
   <img src="https://img.shields.io/badge/Open_source-0D0D0D?style=for-the-badge&logo=github&logoColor=white" alt="Open source">
 </p>
 
 <p align="center"><img src="docs/assets/hero.jpg" alt="A punch clock feeding a grid of hundreds of desks, each with an AI employee at its own computer" width="900"></p>
 
-Overtime is an open-source command center for always-on AI agents: Claude Code and Codex agents that each get their own computer and browser, on servers you own, with your own Claude and Codex logins. You manage them from a native app on Mac and iPhone that shows their work the way Codex does, and you can step in at any time. Your logins, files and data never leave your machines.
+Overtime is an open-source command center for always-on AI agents: Claude Code and Codex agents that each get their own computer and browser, on servers you own, set up from ready-made VM templates, with your own Claude and Codex logins. You manage them from a native app on Mac and iPhone that shows their work the way Codex does, and you can step in at any time. Your logins, files and data never leave your machines.
 
 Also an alternative to Paperclip, OpenClaw and Hermes Agent.
+
+<p align="center">
+  <a href="docs/deploy.md#hetzner"><img src="https://img.shields.io/badge/Deploy_on-Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white" alt="Deploy on Hetzner"></a>
+  <a href="docs/deploy.md#digitalocean"><img src="https://img.shields.io/badge/Deploy_on-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" alt="Deploy on DigitalOcean"></a>
+  <a href="docs/deploy.md#google-cloud"><img src="https://img.shields.io/badge/Deploy_on-Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Deploy on Google Cloud"></a>
+</p>
 
 ## Problem
 
@@ -41,7 +47,7 @@ Engineer fixed the checkout button, ran the tests, and checked it on `localhost:
 ## What you get
 
 - **A work view, not a chat.** Every agent's steps, diffs, files and live screen side by side, like Codex. Take over any screen, stop, redirect, approve.
-- **Built for fleets.** Run 100 always-on agents, grouped into workspaces. Each workspace is isolated on your own servers, with its own files, logins and browsers.
+- **Built for fleets.** Run 100 always-on agents, grouped into workspaces. Each workspace is isolated on your own servers, with its own files, logins and browsers. Ready-made VM templates get a new workspace running in minutes.
 - **They work together.** Agents hand work to each other, share a workspace's files, and only ping you when they're stuck or need a decision.
 - **Native and fast.** A Swift app for Mac and iOS. Not a web dashboard, not Electron.
 - **Everything else you'd expect.** A computer and browser for every agent, memory, schedules, approvals, integrations and Telegram. Runs on Claude Code and Codex, with OpenClaw and Hermes coming.
