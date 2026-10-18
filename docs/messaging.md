@@ -5,6 +5,10 @@
 Run and manage 100 always-on agents in the cloud, from Mac and iOS.
 The Codex app for AI employees. Open source.
 
+## The leap
+
+From personal assistants to AI employees: agents you can manage, watch and measure, doing jobs that make money.
+
 ## Value
 
 1. **Always-on employees:** an OpenClaw-style harness on top of Claude Code, Codex, OpenClaw, Hermes or any other open-source agent.

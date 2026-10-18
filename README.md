@@ -29,13 +29,18 @@ Engineer fixed the checkout button, ran the tests, and checked it on `localhost:
 - **Real work.** Browser use plus integrations for the tools a business runs on: ads, payments, email, CRM, socials, analytics.
 - **Scale.** Run 100 always-on employees from one app.
 
-## Use cases
+## From assistant to employee
 
-- **AI employees.** A team per business for growth and engineering: ads, content, outreach, fixes, releases. Always on, each at its own desk.
-- **Personal assistants that do real work.** Book it, pay it, sort it, in your real accounts, with your approval on the phone.
-- **Browser QA at scale.** Twenty agents click through every flow of your app on `localhost` or staging each night and report back with screenshots.
+Personal assistants answer you. Employees do a job: they own an outcome, work on a schedule, show their work and answer to you. Overtime makes that leap: agents you can manage, watch and measure, doing jobs that make money.
 
-Also: back-office work in tools without APIs (books, invoices, supplier portals), a separate pod of agents per client for agencies, always-on monitoring that acts on what it finds, support and community triage, overnight upgrades and migrations across repos, and running Claude Code, Codex and Hermes side by side on the same task.
+| Job | What they do | What you see |
+|---|---|---|
+| Growth | Run ads, post content, track what works | Spend, campaigns, posts |
+| Sales | Find leads, follow up, book demos, update the CRM | Meetings booked |
+| Engineering | Ship fixes and features, test them in a real browser | Diffs, tests, live checks |
+| Support | Answer tickets, draft refunds for your approval | Tickets closed |
+| Finance | Send invoices, chase payments, reconcile the books | Cash collected |
+| Store ops | Update listings, prices and orders | Orders shipped |
 
 ## Compared
 
@@ -43,11 +48,11 @@ Also: back-office work in tools without APIs (books, invoices, supplier portals)
 |---|---|---|---|---|---|---|
 | Keeps working when your laptop closes | Yes | Cloud tasks | Cloud sessions | Yes | Yes | Yes |
 | Browser use in the cloud | Every agent | Local only | Local only | Yes | Yes | Via Browser Use Cloud |
-| Watch the browser live, take over | Yes | Local only | Local only | Live view | Not documented | Yes |
+| Watch the browser live, take over | Yes | Local only | Local only | Yes | Not documented | Yes |
 | Claude Code-style app: steps, diffs, live screens | Yes | Yes | Yes | Chat | Chat, terminal | Web task pages |
 | Many agents in parallel | 100 | Parallel tasks | Parallel sessions | Yes | Subagents | Yes |
-| Runs any agent | Yes | No | No | No | No | Yes |
-| Native, fast Mac and iOS apps | Yes | Yes | Yes | Companion apps | Desktop | Web only |
+| Runs other agents | Claude Code, Codex, OpenClaw, Hermes | No | No | Coding agents via ACP | No | Yes |
+| Native Mac and iOS apps | Yes | Mac, iOS controls the Mac | Mac, iOS via Claude app | Companion apps | Desktop, third-party iOS | Web only |
 | Open source, your own servers | Yes | CLI only | No | Yes | Yes | Yes |
 
 Checked October 2026.
