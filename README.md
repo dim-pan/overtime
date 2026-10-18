@@ -13,6 +13,10 @@
 - **Agents get lost.** Run several from one thread and they talk over each other, with no way to see who is doing what.
 - **Hosting is hard.** Running agents at scale in the cloud means wiring up servers, logins and browsers, and keeping them alive yourself.
 
+**The Codex app with computer and browser use is so powerful. You can do so much productive work while you're at your computer.**
+
+How can we make this SCALE, and manage always-on assistants that do REAL work for us?
+
 ## See it work
 
 <p align="center"><img src="docs/assets/app.jpg" alt="Overtime: the Growth agent has set up an ads campaign in its own browser, shown live in the app, and waits for approval" width="900"></p>

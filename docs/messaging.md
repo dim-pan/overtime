@@ -28,6 +28,10 @@ Paperclip is a web dashboard for an org chart of agents. Overtime is a native, f
 - **Agents get lost.** Run several from one thread and they talk over each other, with no way to see who is doing what.
 - **Hosting is hard.** Running agents at scale in the cloud means wiring up servers, logins and browsers, and keeping them alive yourself.
 
+**The Codex app with computer and browser use is so powerful. You can do so much productive work while you're at your computer.**
+
+How can we make this SCALE, and manage always-on assistants that do REAL work for us?
+
 ## Solution
 
 Move the agents to the cloud, keep the app: always-on agents on your VMs, a computer each, one app to watch, steer and take over all of them.
