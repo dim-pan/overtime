@@ -23,14 +23,11 @@ Paperclip is a web dashboard for an org chart of agents. Overtime is a native, f
 
 ## Problem
 
-1. They stop when your laptop does.
-2. The cloud is hard.
-3. You can't see the work.
-4. You can't step in.
-5. Computer use doesn't scale.
-6. Agents lose the thread.
-7. They don't know when to ask.
-8. Every agent has its own app.
+- Agents get lost.
+- The interfaces to manage them and see their work suck.
+- Hosting many in the cloud is hard.
+- Computer use only runs locally, one agent at a time.
+- Telegram is a bad cockpit for real work.
 
 ## Solution
 
@@ -38,7 +35,7 @@ Move the agents to the cloud, keep the app: always-on agents on your VMs, a comp
 
 ## Thesis
 
-The solopreneurs and businesses that win will be the ones that figure out how to run tens to hundreds of always-on AI agents: doing productive work, coordinating with each other, and knowing when to hand off to a human. Today that is hard. Agents lose the thread, the tools to manage them and see their work are poor, and hosting many in the cloud is a pain.
+The solopreneurs and businesses that win will be the ones that figure out how to run tens to hundreds of always-on AI agents: doing productive work, coordinating with each other, and knowing when to hand off to a human.
 
 ## Taglines
 

@@ -8,14 +8,11 @@
 
 ## Problem
 
-- **They stop when your laptop does.** Claude Code and Codex run on your machine.
-- **The cloud is hard.** Servers, logins, browsers and keeping agents alive are all on you.
-- **You can't see the work.** Chat apps show a summary, not the steps, diffs or screens.
-- **You can't step in.** When an agent hits a login or goes off track, there's no wheel to grab.
-- **Computer use doesn't scale.** One browser, one agent at a time.
-- **Agents lose the thread.** No memory, no schedule, no handoffs to each other.
-- **They don't know when to ask.** So they either stall or do something you didn't want.
-- **Every agent has its own app.** Ten agents means ten tabs.
+- Agents get lost.
+- The interfaces to manage them and see their work suck.
+- Hosting many in the cloud is hard.
+- Computer use only runs locally, one agent at a time.
+- Telegram is a bad cockpit for real work.
 
 ## See it work
 
@@ -65,7 +62,7 @@ Checked October 2026.
 
 ## Thesis
 
-The solopreneurs and businesses that win will be the ones that figure out how to run tens to hundreds of always-on AI agents: doing productive work, coordinating with each other, and knowing when to hand off to a human. Today that is hard. Agents lose the thread, the tools to manage them and see their work are poor, and hosting many in the cloud is a pain.
+The solopreneurs and businesses that win will be the ones that figure out how to run tens to hundreds of always-on AI agents: doing productive work, coordinating with each other, and knowing when to hand off to a human.
 
 ## Layout
 
