@@ -17,6 +17,10 @@
 
 <p align="center"><b>How can we make this SCALE, and manage always-on assistants that do REAL work for us?</b></p>
 
+Overtime is an open-source app for running AI employees: always-on Claude Code and Codex agents that each get their own computer and browser, on servers you own. You manage them from a native app on Mac and iPhone that shows their work the way Codex does, and you can step in at any time. Bring your own servers and your own Claude and Codex logins.
+
+It is an open-source, self-hosted alternative to OpenAI dots, Grok Bot, Paperclip, OpenClaw and Hermes Agent.
+
 ## Problem
 
 - **Chat is the wrong interface.** Every new agent app is a chat with bots you talk to like contacts. You get messages, not the steps, diffs and screens behind the work.
