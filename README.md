@@ -4,6 +4,10 @@
 
 <p align="center">The Codex app for AI employees. Open source.</p>
 
+<p align="center"><b>The Codex app with computer and browser use is so powerful. You can do so much productive work while you're at your computer.</b></p>
+
+<p align="center">How can we make this SCALE, and manage always-on assistants that do REAL work for us?</p>
+
 <p align="center"><img src="docs/assets/hero.jpg" alt="A wall of 100 screens, each an agent at work in its own app, one highlighted with Take over" width="900"></p>
 
 ## Problem
@@ -12,10 +16,6 @@
 - **Computer use doesn't scale.** It only runs on your laptop, one agent at a time.
 - **Agents get lost.** Run several from one thread and they talk over each other, with no way to see who is doing what.
 - **Hosting is hard.** Running agents at scale in the cloud means wiring up servers, logins and browsers, and keeping them alive yourself.
-
-**The Codex app with computer and browser use is so powerful. You can do so much productive work while you're at your computer.**
-
-How can we make this SCALE, and manage always-on assistants that do REAL work for us?
 
 ## See it work
 

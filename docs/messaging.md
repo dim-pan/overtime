@@ -5,6 +5,10 @@
 Run and manage 100 always-on agents in the cloud, from Mac and iOS.
 The Codex app for AI employees. Open source.
 
+**The Codex app with computer and browser use is so powerful. You can do so much productive work while you're at your computer.**
+
+How can we make this SCALE, and manage always-on assistants that do REAL work for us?
+
 ## The leap
 
 From personal assistants to AI employees: agents you can manage, watch and measure, doing jobs that make money.
@@ -27,10 +31,6 @@ Paperclip is a web dashboard for an org chart of agents. Overtime is a native, f
 - **Computer use doesn't scale.** It only runs on your laptop, one agent at a time.
 - **Agents get lost.** Run several from one thread and they talk over each other, with no way to see who is doing what.
 - **Hosting is hard.** Running agents at scale in the cloud means wiring up servers, logins and browsers, and keeping them alive yourself.
-
-**The Codex app with computer and browser use is so powerful. You can do so much productive work while you're at your computer.**
-
-How can we make this SCALE, and manage always-on assistants that do REAL work for us?
 
 ## Solution
 
