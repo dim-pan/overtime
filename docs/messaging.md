@@ -2,7 +2,8 @@
 
 ## One line
 
-Claude Code and Codex with computer use. For 100 agents, running 24/7.
+Run 100 AI agents in the cloud, 24/7.
+Claude Code, Codex, OpenClaw, Hermes. Each with its own computer. Open source.
 
 ## Problem
 
@@ -25,7 +26,7 @@ The businesses that win will be the ones that can run many agents at once, doing
 ## What we say
 
 1. Hundreds of agents, always on, on your own cloud VMs.
-2. Claude Code and Codex, open source.
+2. Any agent: Claude Code and Codex today, OpenClaw and Hermes next. Open source.
 3. Watch any agent live, take over, approve what matters.
 
 ## What we never say

@@ -1,8 +1,8 @@
 <p align="center"><img src="docs/assets/logo.png" alt="Overtime" width="300"></p>
 
-<h1 align="center">Claude Code and Codex with computer use.<br>For 100 agents, running 24/7.</h1>
+<h1 align="center">Run 100 AI agents in the cloud, 24/7.</h1>
 
-<p align="center">Open source.</p>
+<p align="center">Claude Code, Codex, OpenClaw, Hermes. Each with its own computer. Open source.</p>
 
 <p align="center"><img src="docs/assets/hero.jpg" alt="A punch clock feeding a grid of hundreds of desks, each with an AI worker at its own computer" width="900"></p>
 
@@ -17,7 +17,7 @@
 
 Overtime moves the agents to the cloud and keeps the app.
 
-- **Always on, in the cloud.** Claude Code and Codex agents run on your own VMs, around the clock. Nothing runs on your laptop.
+- **Always on, in the cloud.** Claude Code and Codex agents today, OpenClaw and Hermes next, on your own VMs around the clock. Nothing runs on your laptop.
 - **A computer each.** Every agent gets its own desktop and browser, so computer use runs in parallel, not one at a time.
 - **An app built for many.** Chat, files, diffs and every agent's live screen in one native Mac app. Take over any screen in a click.
 - **You approve what matters.** Sending, posting and buying wait for your OK. The rest just gets done.
@@ -32,6 +32,6 @@ The businesses that win will be the ones that can run many agents at once, doing
 |---|---|
 | [`app/`](app) | Mac app |
 | [`gateway/`](gateway) | Server the app talks to, one per workspace |
-| [`harness/`](harness) | Runs an agent on Claude Code or Codex |
+| [`harness/`](harness) | Runs any agent: Claude Code and Codex today, OpenClaw and Hermes next |
 | [`provision/`](provision) | Sets up VMs, workspaces and agents |
 | [`docs/`](docs) | [Messaging](docs/messaging.md), [brand](docs/brand.md) |
