@@ -4,11 +4,11 @@
 
 <p align="center">The Codex app for AI employees. Open source.</p>
 
+<p align="center"><img src="docs/assets/hero.jpg" alt="A punch clock feeding a grid of hundreds of desks, each with an AI employee at its own computer" width="900"></p>
+
 <p align="center"><b>The Codex app with computer and browser use is so powerful. You can do so much productive work while you're at your computer.</b></p>
 
 <p align="center">How can we make this SCALE, and manage always-on assistants that do REAL work for us?</p>
-
-<p align="center"><img src="docs/assets/hero.jpg" alt="A wall of 100 screens, each an agent at work in its own app, one highlighted with Take over" width="900"></p>
 
 ## Problem
 
