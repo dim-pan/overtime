@@ -17,6 +17,10 @@
 
 Growth set up a $40/day campaign in Ads Manager on its own browser. You watch it live, then approve or take over.
 
+<p align="center"><img src="docs/assets/app-engineering.jpg" alt="Overtime: the Engineer agent fixed a checkout bug, ran the tests, and is clicking Pay on localhost:3000 in its own browser" width="900"></p>
+
+Engineer fixed the checkout button, ran the tests, and checked it on `localhost:3000` in its own browser, all on the server.
+
 ## What you get
 
 - **Always-on employees.** An OpenClaw-style harness (memory, schedules, heartbeats, Telegram) on top of Claude Code, Codex, OpenClaw, Hermes or any other open-source agent. They keep working when your laptop is closed.
