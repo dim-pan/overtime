@@ -81,3 +81,7 @@ The solopreneurs and businesses that win will be the ones that figure out how to
 | [`harness/`](harness) | Runs agents on Claude Code and Codex |
 | [`provision/`](provision) | Sets up VMs, workspaces and agents |
 | [`docs/`](docs) | [Messaging](docs/messaging.md), [brand](docs/brand.md) |
+
+## License
+
+[Apache-2.0](LICENSE). Copyright 2026 Dim Pan.
