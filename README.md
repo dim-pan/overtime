@@ -38,16 +38,18 @@ Also: back-office work in tools without APIs (books, invoices, supplier portals)
 
 ## Compared
 
-| | Overtime | Codex, Claude Code apps | OpenClaw, Hermes | Paperclip |
-|---|---|---|---|---|
-| Always on, in the cloud | Yes | No, your laptop | Yes | Yes |
-| Every agent gets its own browser | Yes | One, on your machine | No live browser | No |
-| See every step, diff and screen live | Yes | Yes | No, chat only | Dashboard, no screens |
-| Take over mid-task | Yes | Yes, locally | No | No |
-| 100 agents in parallel | Yes | No | Hard | Yes |
-| Any agent: Claude Code, Codex, OpenClaw, Hermes | Yes | No, one each | No, one each | Yes |
-| Native Mac and iOS apps | Yes | Mac, no iOS | Chat apps | Web |
-| Open source, your own servers | Yes | Partly | Yes | Yes |
+| | Overtime | Codex | Claude Code | OpenClaw | Hermes | Paperclip |
+|---|---|---|---|---|---|---|
+| Keeps working when your laptop closes | Yes | Cloud tasks | Cloud sessions | Yes | Yes | Yes |
+| Browser use in the cloud | Every agent | Local only | Local only | Yes | Yes | Via Browser Use Cloud |
+| Watch the browser live, take over | Yes | Local only | Local only | Live view | Not documented | Yes |
+| Codex-style steps and diffs | Yes | Yes | Yes | Chat | Chat, terminal | Task pages |
+| Many agents in parallel | 100 | Parallel tasks | Parallel sessions | Yes | Subagents | Yes |
+| Runs any agent | Yes | No | No | No | No | Yes |
+| Native Mac and iOS apps | Yes | Yes | Yes | Yes | Desktop | Web only |
+| Open source, your own servers | Yes | CLI only | No | Yes | Yes | Yes |
+
+Checked October 2026.
 
 ## Thesis
 
