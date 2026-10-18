@@ -4,6 +4,15 @@
 
 An open-source Codex and Claude Code app for running hundreds of always-on agents in the cloud.
 
+## Problem
+
+- Chat apps are the wrong cockpit: steering an agent through real work over Telegram is painful, steering ten is impossible.
+- The best agent apps are stuck on your laptop: Claude Code and Codex run locally, remote control is clunky, and computer use does not scale to many agents at once.
+
+## Solution
+
+Move the agents to the cloud, keep the app: always-on agents on your VMs, a computer each, one app to watch, steer and take over all of them.
+
 ## Thesis
 
 The businesses that win will be the ones that can run many agents at once, doing valuable work well and without supervision. Get that right and your workforce scales with compute, not headcount.

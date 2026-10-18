@@ -6,19 +6,23 @@
 
 > Private preview. The code moves here once it is ready.
 
+## Problem
+
+- **Chat apps are the wrong cockpit.** Steering an OpenClaw-style agent through real work over Telegram is painful. Steering ten is impossible.
+- **The best agent apps are stuck on your laptop.** Claude Code and Codex are great, and computer use is remarkable, but they run locally. Remote control is clunky, and computer use does not scale to many agents working at once.
+
+## Solution
+
+Overtime moves the agents to the cloud and keeps the app.
+
+- **Always on, in the cloud.** Claude Code and Codex agents run on your own VMs, around the clock. Nothing runs on your laptop.
+- **A computer each.** Every agent gets its own desktop and browser, so computer use runs in parallel, not one at a time.
+- **An app built for many.** Chat, files, diffs and every agent's live screen in one native Mac app. Take over any screen in a click.
+- **You approve what matters.** Sending, posting and buying wait for your OK. The rest just gets done.
+
 ## Thesis
 
 The businesses that win will be the ones that can run many agents at once, doing valuable work well and without supervision. Get that right and your workforce scales with compute, not headcount.
-
-## What it does
-
-- Runs Claude Code and Codex agents on your own cloud VMs, always on.
-- Gives each agent a role, its own files and memory, and a real browser.
-- Lets you watch any agent live and take over its screen.
-- Holds anything consequential (sending, posting, buying) for your approval.
-- One app to manage them all: a native Mac app, plus Telegram.
-
-Agents run in the cloud only, never on your laptop.
 
 ## Layout
 
