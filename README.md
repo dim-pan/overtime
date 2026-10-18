@@ -1,8 +1,8 @@
 <p align="center"><img src="docs/assets/logo.png" alt="Overtime" width="300"></p>
 
-<h1 align="center">Run and manage 100 always-on agents in the cloud</h1>
+<h1 align="center">Open-source dots, with a command centre</h1>
 
-<h3 align="center">A Codex-style command centre for your fleet, not another chat bot</h3>
+<h3 align="center">Run and manage 100 always-on agents in the cloud from a Codex-style app</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Codex_app_clone-0D0D0D?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMiIgeT0iNCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjE2IiByeD0iMyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8%2BPHBhdGggZD0iTTYgMTBsMyAyLTMgMk0xMSAxNWg1IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjwvc3ZnPg%3D%3D" alt="Codex app clone">
@@ -12,10 +12,6 @@
 </p>
 
 <p align="center"><img src="docs/assets/hero.jpg" alt="A punch clock feeding a grid of hundreds of desks, each with an AI employee at its own computer" width="900"></p>
-
-<p align="center">The Codex app with computer and browser use is so powerful. You can do so much productive work while you're at your computer.</p>
-
-<p align="center"><b>How can we make this SCALE, and manage always-on assistants that do REAL work for us?</b></p>
 
 Overtime is an open-source app for running AI employees: always-on Claude Code and Codex agents that each get their own computer and browser, on servers you own. You manage them from a native app on Mac and iPhone that shows their work the way Codex does, and you can step in at any time. Bring your own servers and your own Claude and Codex logins.
 

@@ -2,13 +2,8 @@
 
 ## One line
 
-Run and manage 100 always-on agents in the cloud with a Codex app clone.
-Each with its own computer and browser.
-From Mac and iOS. Open source.
-
-The Codex app with computer and browser use is so powerful. You can do so much productive work while you're at your computer.
-
-**How can we make this SCALE, and manage always-on assistants that do REAL work for us?**
+Open-source dots, with a command centre.
+Run and manage 100 always-on agents in the cloud from a Codex-style app.
 
 ## The leap
 
