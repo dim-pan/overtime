@@ -2,7 +2,7 @@
 
 <h1 align="center">Run and manage 100 always-on agents in the cloud</h1>
 
-<h3 align="center">Each with its own computer and browser</h3>
+<h3 align="center">A Codex-style command centre for your fleet, not another chat bot</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Codex_app_clone-0D0D0D?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMiIgeT0iNCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjE2IiByeD0iMyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8%2BPHBhdGggZD0iTTYgMTBsMyAyLTMgMk0xMSAxNWg1IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjwvc3ZnPg%3D%3D" alt="Codex app clone">
@@ -19,10 +19,10 @@
 
 ## Problem
 
-- **Interfaces suck.** Telegram and chat threads give you a summary, not the steps, diffs and screens behind the work.
-- **Computer use doesn't scale.** It only runs on your laptop, one agent at a time.
-- **Agents get lost.** Run several from one thread and they talk over each other, with no way to see who is doing what.
-- **Hosting is hard.** Running agents at scale in the cloud means wiring up servers, logins and browsers, and keeping them alive yourself.
+- **Chat is the wrong interface.** Every new agent app is a chat with bots you talk to like contacts. You get messages, not the steps, diffs and screens behind the work.
+- **They're built for one assistant, not a team.** OpenAI's dots gives you one agent. The open-source clones give you a handful of bots.
+- **Agents get lost.** Run many and they talk over each other, with no way to see who is doing what.
+- **Hosting is hard.** Running dozens of agents in the cloud, with their own computers, logins and browsers, is all on you.
 
 ## See it work
 
@@ -36,11 +36,10 @@ Engineer fixed the checkout button, ran the tests, and checked it on `localhost:
 
 ## What you get
 
-- **Always-on employees.** An OpenClaw-style harness (memory, schedules, heartbeats, Telegram) on top of Claude Code and Codex, with OpenClaw and Hermes support coming. They keep working when your laptop is closed.
-- **Set up in a click.** Each employee gets its own workspace and browser on your VMs. No servers to wire by hand.
-- **The Codex interface.** Every step, diff, file and live browser, the way Codex and Claude Code show them. Take over any browser, stop, redirect, approve.
-- **Real work.** Browser use plus integrations for the tools a business runs on: ads, payments, email, CRM, socials, analytics.
-- **Scale.** Run 100 always-on employees from one app.
+- **A work view, not a chat.** Every agent's steps, diffs, files and live screen side by side, like Codex. Take over any screen, stop, redirect, approve.
+- **Built for fleets.** Run 100 always-on agents, grouped into workspaces. Each workspace is isolated on your own servers, with its own files, logins and browsers.
+- **Native and fast.** A Swift app for Mac and iOS. Not a web dashboard, not Electron.
+- **Everything else you'd expect.** A computer and browser for every agent, memory, schedules, approvals, integrations and Telegram. Runs on Claude Code and Codex, with OpenClaw and Hermes coming.
 
 ## From assistant to employee
 
@@ -57,18 +56,17 @@ Personal assistants answer you. Employees do a job: they own an outcome, work on
 
 ## Compared
 
-| | Overtime | Codex | Claude Code | OpenClaw | Hermes | Paperclip |
+| | Overtime | OpenAI dots | Grok Bot | Rakazo | OpenMausBot | OpenDots |
 |---|---|---|---|---|---|---|
-| Keeps working when your laptop closes | Yes | Cloud tasks | Cloud sessions | Yes | Yes | Yes |
-| Browser use in the cloud | Every agent | Local only | Local only | Yes | Yes | Via Browser Use Cloud |
-| Watch the browser live, take over | Yes | Local only | Local only | Yes | Not documented | Yes |
-| Claude Code-style app: steps, diffs, live screens | Yes | Yes | Yes | Chat | Chat, terminal | Web task pages |
-| Many agents in parallel | 100 | Parallel tasks | Parallel sessions | Yes | Subagents | Yes |
-| Runs other agents | Claude Code, Codex (OpenClaw, Hermes coming) | No | No | Coding agents via ACP | No | Yes |
-| Native Mac and iOS apps | Yes | Mac, iOS controls the Mac | Mac, iOS via Claude app | Companion apps | Desktop, third-party iOS | Web only |
-| Open source, your own servers | Yes | CLI only | No | Yes | Yes | Yes |
+| Main interface | Work view: steps, diffs, live screens | Chat | Chat | Chat | Chat | Chat and docs |
+| Agents | Fleets of 100 | One per plan | A few bots | A team of bots | A team of bots | A few dots |
+| Runs on | Your servers | OpenAI's cloud | xAI | Your machine or a sandbox provider | Your machine, plus a cloud computer | Your servers, plus CopilotKit's backend |
+| Isolated workspaces | Yes, one per team | No | Not documented | Shared or private computers | Not documented | Spaces |
+| Apps | Native Swift, Mac and iOS | ChatGPT apps | Mac and iOS | Electron, iOS, Android | Desktop | Web and mobile |
+| Agent | Claude Code, Codex | GPT-6 Astra | Grok | Any model | Claude, Codex | Any model |
+| Open source | Yes | No | No | Apache-2.0 | Apache-2.0 | MIT |
 
-Checked October 2026.
+Checked October 2026. Links: [dots](https://openai.com/index/introducing-dots/), [Grok Bot](https://docs.x.ai/grok-bot/faq), [Rakazo](https://github.com/elie222/rakazo), [OpenMausBot](https://github.com/milind-soni/OpenMausBot), [OpenDots](https://github.com/CopilotKit/OpenDots).
 
 ## Thesis
 

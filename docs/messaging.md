@@ -22,9 +22,13 @@ From personal assistants to AI employees: agents you can manage, watch and measu
 4. **Real work:** browser use and integrations (ads, payments, email, CRM, socials) in the tools businesses run on.
 5. **Scale:** 100 always-on employees from one app.
 
-## Against Paperclip
+## Our edge
 
-Paperclip is a web dashboard for an org chart of agents. Overtime is a native, fast Mac and iOS app with the Claude Code interface, built around browser use and integrations that do real work.
+Everyone now has always-on agents with their own computer and browser (OpenAI dots, Grok Bot, Rakazo, OpenMausBot, OpenDots). They are all chat apps for a few assistants. Overtime is different in three ways:
+
+1. **A work view, not a chat:** steps, diffs, files and live screens, like Codex.
+2. **Built for fleets:** 100 agents, isolated workspaces, on your own servers.
+3. **Native and fast:** a Swift app for Mac and iOS.
 
 ## Problem
 
