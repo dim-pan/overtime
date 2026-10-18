@@ -2,8 +2,8 @@
 
 ## One line
 
-Run 100 always-on agents that do real work.
-Open-source OpenAI dots, with a Codex-style command centre.
+The command center for always-on AI agents doing real work.
+An open-source OpenAI dots and Grok Bot alternative. See every agent and every action, Codex-style. Run as many as you need: they work together and ask you when it matters.
 
 ## The leap
 
