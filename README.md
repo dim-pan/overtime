@@ -59,7 +59,7 @@ Checked October 2026.
 
 ## Thesis
 
-The businesses that win will be the ones that can run many agents at once, doing valuable work well and without supervision. Get that right and your workforce scales with compute, not headcount.
+The solopreneurs and businesses that win will be the ones that figure out how to run tens to hundreds of always-on AI agents: doing productive work, coordinating with each other, and knowing when to hand off to a human. Today that is hard. Agents lose the thread, the tools to manage them and see their work are poor, and hosting many in the cloud is a pain.
 
 ## Layout
 
