@@ -5,7 +5,7 @@
 <h3 align="center">An open-source OpenAI dots and Grok Bot alternative. See every agent and every action, Codex-style. Run as many as you need: they work together and ask you when it matters.</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Codex_app_clone-0D0D0D?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMiIgeT0iNCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjE2IiByeD0iMyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8%2BPHBhdGggZD0iTTYgMTBsMyAyLTMgMk0xMSAxNWg1IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjwvc3ZnPg%3D%3D" alt="Codex app clone">
+  <img src="https://img.shields.io/badge/Codex--style_app-0D0D0D?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMiIgeT0iNCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjE2IiByeD0iMyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8%2BPHBhdGggZD0iTTYgMTBsMyAyLTMgMk0xMSAxNWg1IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjwvc3ZnPg%3D%3D" alt="Codex-style app">
   <img src="https://img.shields.io/badge/Your_own_servers-E3242B?style=for-the-badge&logo=linuxserver&logoColor=white" alt="Your own servers">
   <img src="https://img.shields.io/badge/Mac_%2B_iOS-2741D6?style=for-the-badge&logo=apple&logoColor=white" alt="Mac and iOS">
   <img src="https://img.shields.io/badge/Open_source-0D0D0D?style=for-the-badge&logo=github&logoColor=white" alt="Open source">
@@ -13,9 +13,9 @@
 
 <p align="center"><img src="docs/assets/hero.jpg" alt="A punch clock feeding a grid of hundreds of desks, each with an AI employee at its own computer" width="900"></p>
 
-Overtime is an open-source app for running AI employees: always-on Claude Code and Codex agents that each get their own computer and browser, on servers you own. You manage them from a native app on Mac and iPhone that shows their work the way Codex does, and you can step in at any time. Bring your own servers and your own Claude and Codex logins. Your logins, files and data never leave your machines.
+Overtime is an open-source command center for always-on AI agents: Claude Code and Codex agents that each get their own computer and browser, on servers you own, with your own Claude and Codex logins. You manage them from a native app on Mac and iPhone that shows their work the way Codex does, and you can step in at any time. Your logins, files and data never leave your machines.
 
-It is an open-source, self-hosted alternative to OpenAI dots, Grok Bot, Paperclip, OpenClaw and Hermes Agent.
+Also an alternative to Paperclip, OpenClaw and Hermes Agent.
 
 ## Problem
 
@@ -23,6 +23,10 @@ It is an open-source, self-hosted alternative to OpenAI dots, Grok Bot, Papercli
 - **They're built for one assistant, not a team.** OpenAI's dots gives you one agent. The open-source clones give you a handful of bots.
 - **Agents get lost.** Run many and they talk over each other, with no way to see who is doing what.
 - **Hosting is hard.** Running dozens of agents in the cloud, with their own computers, logins and browsers, is all on you.
+
+## Thesis
+
+The solopreneurs and businesses that win will be the ones that figure out how to run tens to hundreds of always-on AI agents: doing productive work, coordinating with each other, and knowing when to hand off to a human.
 
 ## See it work
 
@@ -38,6 +42,7 @@ Engineer fixed the checkout button, ran the tests, and checked it on `localhost:
 
 - **A work view, not a chat.** Every agent's steps, diffs, files and live screen side by side, like Codex. Take over any screen, stop, redirect, approve.
 - **Built for fleets.** Run 100 always-on agents, grouped into workspaces. Each workspace is isolated on your own servers, with its own files, logins and browsers.
+- **They work together.** Agents hand work to each other, share a workspace's files, and only ping you when they're stuck or need a decision.
 - **Native and fast.** A Swift app for Mac and iOS. Not a web dashboard, not Electron.
 - **Everything else you'd expect.** A computer and browser for every agent, memory, schedules, approvals, integrations and Telegram. Runs on Claude Code and Codex, with OpenClaw and Hermes coming.
 
@@ -60,17 +65,13 @@ Personal assistants answer you. Employees do a job: they own an outcome, work on
 |---|---|---|---|---|---|---|
 | Main interface | Work view: steps, diffs, live screens | Chat | Chat | Chat | Chat | Chat and docs |
 | Agents | Fleets of 100 | One per plan | A few bots | A team of bots | A team of bots | A few dots |
-| Runs on | Your servers | OpenAI's cloud | xAI | Your machine or a sandbox provider | Your machine, plus a cloud computer | Your servers, plus CopilotKit's backend |
+| Runs on | Your servers | OpenAI's cloud | xAI's cloud | Your machine or a sandbox provider | Your machine, plus a cloud computer | Your servers, plus CopilotKit's backend |
 | Isolated workspaces | Yes, one per team | No | Not documented | Shared or private computers | Not documented | Spaces |
 | Apps | Native Swift, Mac and iOS | ChatGPT apps | Mac and iOS | Electron, iOS, Android | Desktop | Web and mobile |
 | Agent | Claude Code, Codex | GPT-6 Astra | Grok | Any model | Claude, Codex | Any model |
 | Open source | Yes | No | No | Apache-2.0 | Apache-2.0 | MIT |
 
 Checked October 2026. Links: [dots](https://openai.com/index/introducing-dots/), [Grok Bot](https://docs.x.ai/grok-bot/faq), [Rakazo](https://github.com/elie222/rakazo), [OpenMausBot](https://github.com/milind-soni/OpenMausBot), [OpenDots](https://github.com/CopilotKit/OpenDots).
-
-## Thesis
-
-The solopreneurs and businesses that win will be the ones that figure out how to run tens to hundreds of always-on AI agents: doing productive work, coordinating with each other, and knowing when to hand off to a human.
 
 ## Layout
 
