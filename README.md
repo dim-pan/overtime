@@ -2,7 +2,7 @@
 
 <h1 align="center">The command center for always-on AI agents doing real work</h1>
 
-<h3 align="center">An open-source OpenAI dots and Grok Bot alternative. See every agent and every action, Codex-style. Run as many as you need: they work together and ask you when it matters.</h3>
+<h3 align="center">An open-source OpenAI dots and Grok Bot alternative. See every agent and every action, Codex-style. Scale from one agent to 100 with ready-made templates.</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Codex--style_app-0D0D0D?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMiIgeT0iNCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjE2IiByeD0iMyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8%2BPHBhdGggZD0iTTYgMTBsMyAyLTMgMk0xMSAxNWg1IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjwvc3ZnPg%3D%3D" alt="Codex-style app">

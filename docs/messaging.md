@@ -3,7 +3,7 @@
 ## One line
 
 The command center for always-on AI agents doing real work.
-An open-source OpenAI dots and Grok Bot alternative. See every agent and every action, Codex-style. Run as many as you need: they work together and ask you when it matters.
+An open-source OpenAI dots and Grok Bot alternative. See every agent and every action, Codex-style. Scale from one agent to 100 with ready-made templates.
 
 ## The leap
 
